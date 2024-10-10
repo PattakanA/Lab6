@@ -1,6 +1,4 @@
 x =[]
-t = 0
-print(type(x))
 for i in range(1,6):
     print("Input#%d :" %(i), end= "")
     y = int(input())
